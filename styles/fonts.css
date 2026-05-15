@@ -1,0 +1,9 @@
+@font-face {
+    font-family:'AlegreyaSans-Black' ;
+    src: url('../fonts/AlegreyaSans-Black.woff') format('woff');
+}
+
+@font-face {
+    font-family:'Lato-Black' ;
+    src: url('../fonts/Lato-Black.woff') format('woff');
+}
